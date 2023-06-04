@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![](./008.jpg)
 
-### Name:
-### Register Number:
+### Name: Arshatha P
+### Register Number: 212222230012
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
