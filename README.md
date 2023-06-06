@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![](./008.jpg)
+![](./08.png)
 
 ### Name: Arshatha P
 ### Register Number: 212222230012
